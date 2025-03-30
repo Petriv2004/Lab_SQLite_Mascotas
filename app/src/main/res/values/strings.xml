@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">NavegacionAppet</string>
+    <string name="appet_logo">Appet Logo</string>
+    <string name="start">Iniciar Recorrido / Continuar Vuelta</string>
+    <string name="stop">Registrar Vuelta</string>
+    <string name="reset">Formatear Valores</string>
+    <string name="title">Tiempos Parciales:</string>
+    <string name="vuelta">Reestablecer Vuelta</string>
+    <string name="pausar">Tomar un descanso en vuelta</string>
+
+    <string-array name="options">
+        <item>Mi Perfil</item>
+        <item>Mis Mascotas</item>
+        <item>Cuidador</item>
+    </string-array>
+
+    <string-array name="options_mascotas">
+        <item>Registrar Mascota</item>
+        <item>Ver Mis Mascotas</item>
+        <item>Registrar el Historial de Mis Mascotas</item>
+        <item>Realizar Vuelta de Recorrido</item>
+    </string-array>
+
+    <string-array name="options_miPerfil">
+        <item>Ver Mi Información</item>
+        <item>Cambiar Mi Contraseña</item>
+    </string-array>
+
+    <string-array name="options_cuidador">
+        <item>Ver Cuidadores Disponibles</item>
+        <item>Chatear con Cuidador</item>
+        <item>Despedir Cuidador</item>
+    </string-array>
+
+    <string-array name="mascotas">
+        <item>Maximo</item>
+        <item>Ozzy</item>
+        <item>Luna</item>
+    </string-array>
+</resources>
